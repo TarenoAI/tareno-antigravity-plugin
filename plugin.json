@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "tareno",
+  "description": "Plan social content, analyze performance, and manage approval-backed publishing with Tareno."
+}

@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "tareno": {
+      "serverUrl": "https://tareno.co/api/mcp"
+    }
+  }
+}
